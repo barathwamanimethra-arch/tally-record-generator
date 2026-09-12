@@ -1,0 +1,6 @@
+{
+  "name": "Tally ERP. 9 Record Generator",
+  "description": "Generate customized Tally ERP.9 lab record books with student credentials, dynamic content variations, custom screenshots, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
